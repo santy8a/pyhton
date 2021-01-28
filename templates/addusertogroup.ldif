@@ -1,0 +1,4 @@
+dn: CN={{cn_group}},OU={{ou_provider}},OU=Cloud,OU=Grupos,OU=SSCC,DC=ansible,DC=com
+changetype: modify
+add: member
+member: {{distinguishedNameUser}}

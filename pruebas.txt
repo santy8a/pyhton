@@ -1,0 +1,8 @@
+dn: CN=manual3,OU=cloud,DC=ansible,DC=com
+objectClass: top
+objectClass: group
+cn: manual3
+distinguishedName: CN=manual3,OU=cloud,DC=ansible,DC=com
+name: manual3
+sAMAccountName: manual3
+objectCategory: CN=Group,CN=Schema,CN=Configuration,DC=ansible,DC=com

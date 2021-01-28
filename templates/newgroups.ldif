@@ -1,0 +1,9 @@
+dn: CN={{cn_group}},OU={{ou_provider}},OU=Cloud,OU=Grupos,OU=SSCC,DC=ansible,DC=com
+objectClass: top
+objectClass: group
+cn: {{cn_group}}
+distinguishedName: CN={{cn_group}},OU={{ou_provider}},OU=Cloud,OU=Grupos,OU=SSCC,DC=ansible,DC=com
+name: {{cn_group}}
+sAMAccountName: {{cn_group}}
+groupType: -2147483644
+objectCategory: CN=Group,CN=Schema,CN=Configuration,DC=ansible,DC=com
